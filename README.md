@@ -93,7 +93,6 @@ The backend supports live AI analysis when these environment variables are set:
 
 If the API key or gateway is unavailable, the backend automatically uses the built-in rule-based analyzer, so the app remains stable.
 
-## What makes this project interview-worthy
 
 - **Clear business focus**: It is a decision-support tool for PE deal screening, not a generic dashboard or chatbot.
 - **Hybrid architecture**: deterministic fallback logic plus optional real AI integration.
@@ -101,7 +100,6 @@ If the API key or gateway is unavailable, the backend automatically uses the bui
 - **Simple, clean frontend**: a lightweight React UI with clear card-based results and no unnecessary clutter.
 - **Domain-relevant sample use**: the model is tuned for service businesses in the DACH Mittelstand.
 
-## Interview explanation guide
 
 ### Short summary
 "This is a prototype AI-powered deal screening tool for DACH service companies. It takes a company profile, evaluates PE fit and AI readiness, ranks potential value creation opportunities, and recommends the highest-ROI first initiative."
