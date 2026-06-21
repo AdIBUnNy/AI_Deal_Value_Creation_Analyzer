@@ -1,4 +1,4 @@
-# NextGen AI Deal & Value Creation Analyzer
+# AI Deal & Value Creation Analyzer
 
 A student-built prototype for screening DACH Mittelstand service companies and identifying AI-driven value creation opportunities for private equity buy-and-build deals.
 
